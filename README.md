@@ -11,8 +11,8 @@ Este repositório contém uma automação para o Desafio FADAMI.
 **variables:** Variáveis globais utilizadas nos testes.
 
 ## Pré-requisitos
-Instalar o Python na versão mais atualizada.
-Certifique-se de ter a seguinte biblioteca do Robot Framework instaladas:
-
+**Instalar o Python na versão mais atualizada.**
+**Instalar o Robot Framework na versão mais atualizada.**
+**Certifique-se de ter a seguinte biblioteca do Robot Framework instaladas:**
 **SeleniumLibrary** 
 
